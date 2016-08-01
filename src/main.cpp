@@ -1101,7 +1101,7 @@ unsigned int ComputeMinWork(unsigned int nBase, int64 nTime)
     {
         // Maximum 200% adjustment...
         bnResult *= 2;
-        // ... in best-case exactly 4-times-normal target time
+        // ... in best-case exactly 2-times-normal target time
         nTime -= nTargetTimespan*2;
     }
     if (bnResult > bnProofOfWorkLimit)
