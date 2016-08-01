@@ -9,7 +9,7 @@
 -GOONIES is an Altcoin that uses Scrypt as a PoW algorithm.
 - - 1 Minute block targets
 - - Subsidy halves in 368,038 blocks (~255 Days)
-- - ~270,875,968 Total coins
+- - 270,875,968 Total coins
 
 - - 368 Coins per block
 - - 5 Blocks to retarget difficulty
