@@ -12,4 +12,4 @@
 - - 270,875,968 Total coins
 
 - - 368 Coins per block
-- - 5 Blocks to retarget difficulty
+- - 5 Blocks to retarget difficulty (200% Maximum Increase)
