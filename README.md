@@ -4,6 +4,7 @@
 
 -Copyright (c) 2016-20xx The Goonies Team
 
+
 -What is GOONIES?
 
 -GOONIES is an Altcoin that uses Scrypt as a PoW algorithm.
