@@ -13,3 +13,7 @@
 
 - - 368 Coins per block
 - - 5 Blocks to retarget difficulty (200% Maximum Increase)
+- - 20 Blocks before Mined coins can be Spent
+- - 6 Blocks for Sending/Receiving Tx's
+
+- - 4MB Blocksize Hard Limit
